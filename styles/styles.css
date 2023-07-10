@@ -43,3 +43,76 @@ border: 0;
 .right-part{
     padding-right: 250px;
 }
+/* first section ends here */
+/* second section starts here */
+.section-2-title{
+    color: #272727;
+text-align: center;
+font-size: 40px;
+font-weight: 800;
+padding-bottom: 20px;
+}
+.section-2-des{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+}
+.section-2-intro{
+    padding-top: 150px;
+    padding-bottom: 75px;
+}
+.common-img-des{
+    color: #272727;
+    font-size: 24px;
+    font-weight: 700;
+    text-decoration-line: underline;
+}
+.section-2-img{
+    width: 464px;
+    height: 520px;
+    background-color: rgba(167, 33, 98, 0.15);
+    border-radius: 300px 300px 0px 0px;
+    align-items: center;
+    text-align: center;
+}
+.section-2-img2{
+    width: 464px;
+    height: 520px;
+    background-color: rgba(5, 151, 160, 0.15);
+    border-radius: 300px 300px 0px 0px;
+    align-items: center;
+    text-align: center;
+}
+.section-2-img3{
+    width: 464px;
+    height: 520px;
+    background-color: rgba(71, 125, 17, 0.15);
+    border-radius: 300px 300px 0px 0px;
+    align-items: center;
+    text-align: center;
+}
+.img-decoration{
+    padding-top: 92px;
+}
+.img-decoration2{
+    padding-top: 145px;
+}
+.img-decoration3{
+    padding-top: 50px;
+}
+.section-2-img-container{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-bottom: 200px;
+}
+#name-deco{
+    color: pink;
+}
+#name-deco2{
+color: red;
+}
+#name-deco3{
+    color: yellow;
+}
