@@ -149,6 +149,13 @@ padding-bottom: 25px;
 .section-3-des{
     padding-left: 200px;
 }
+.sec-3-quote{
+    color: rgba(39, 39, 39, 0.60);
+font-size: 24px;
+font-weight: 400;
+padding-bottom: 15px;
+
+}
 /* 3rd section ends here */
 .section-4-container{
     width: 100%;
