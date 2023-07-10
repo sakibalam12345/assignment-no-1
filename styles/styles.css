@@ -32,6 +32,8 @@ padding-bottom: 30px;
 background: #E55473;
 border: 0;
 cursor: pointer;
+font-size: 18px;
+color: white;
 /* button section */
 }
 .section-img{
@@ -174,3 +176,61 @@ padding-bottom: 20px;
     margin-left: 190px;
 }
 /* section 4 ends here */
+/* section 5 starts here */
+.section-5-title{
+    color: #272727;
+text-align: center;
+font-size: 40px;
+font-weight: 800;
+padding-bottom: 10px;
+}
+.section-05-des{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+padding-bottom: 50px;
+}
+.section-5-container{
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    margin-bottom: 150px;
+}
+/* section 5 ends here */
+/* section 6 ends here */
+.section-6-container{
+    width: 1450px;
+    height: 400px;
+    background-image: url('./Rectangle\ 9.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin: 0 auto;
+}
+.section-6-des{
+    text-align: center;
+    padding-top: 110px;
+}
+.sec-6-title{
+    color: #272727;
+font-size: 40px;
+font-weight: 800;
+}
+.sec-6-des{
+    color: rgba(39, 39, 39, 0.60);
+font-size: 18px;
+font-weight: 400;
+}
+#input-deco{
+    padding: 20px 120px;
+    border: 0;
+    border-radius: 5px;
+    margin-right: 20px;
+}
+.sec-6-form{
+    margin-top: 85px;
+    justify-content: center;
+    display: flex;
+}
+/* section 6 ends here */
