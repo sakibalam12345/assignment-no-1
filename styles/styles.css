@@ -25,11 +25,13 @@ font-weight: 400;
 padding-bottom: 30px;
 
 }
+/* button section */
 .primary-btn{
     padding: 20px 45px;
     border-radius: 8px;
 background: #E55473;
 border: 0;
+/* button section */
 }
 .section-img{
     padding-top: 50px;
@@ -116,3 +118,31 @@ color: red;
 #name-deco3{
     color: yellow;
 }
+/* 2nd section ends here */
+/* 3rd section starts */
+.section-3-container{
+    height: 1200px;
+    background-image: url(./girl\ with\ flower.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+ 
+}
+.sec-3-des{
+    color: #272727;
+font-size: 40px;
+font-weight: 800;
+padding-bottom: 25px;
+}
+.sec-3-title{
+    color: #272727;
+font-size: 80px;
+font-weight: 800;
+padding-bottom: 25px;
+}
+.section-3-des{
+    padding-left: 200px;
+}
+/* 3rd section ends here */
